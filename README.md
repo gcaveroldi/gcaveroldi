@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavoaveroldi/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com)
 
-![gcaveroldi GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![gcaveroldi GitHub stats](https://github-readme-stats.vercel.app/api?username=gcaveroldi&show_icons=true&bg_color=00000000)
 
 ### Tecnologias que eu uso no meu dia 
 
