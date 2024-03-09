@@ -14,7 +14,7 @@
   <img aLign="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
   <img aLign="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
   <img aLing="center" alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" >
-  <img aLing="center" alt="JavaScript" src="https://img.shields.io/badge/Java%20Script-grey?style=for-the-badge&logo=javascript">
+  <img aLing="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript">
   </div><br/>
 Apaixonado por tecnologia, programação e por mudar a vida das pessoas através dos códigos.
 
