@@ -9,13 +9,14 @@
 
 ### Tecnologias que eu uso no meu dia 
 
-<div style="display: flex; justify-content: center; gap: 10px;"><br/>
-  <img aLign="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
-  <img aLign="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
-  <img aLign="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
-  <img aLing="center" alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" >
-  <img aLing="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript">
-  </div><br/>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
+  <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" >
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript">
+</div>
+
 Apaixonado por tecnologia, programação e por mudar a vida das pessoas através dos códigos.
 
 ### UNOESTE - Analise e Desenvolvimento de Sistemas
