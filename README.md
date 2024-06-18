@@ -15,6 +15,8 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
   <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" >
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
 Apaixonado por tecnologia, programação e por mudar a vida das pessoas através dos códigos.
